@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @PSMDEV9073
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-PSMDEV9073/PSMDEV9073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## PSM Contact
+
+| DISCORD | PSMDEV#9073 |
+| ------ | ------ |
+
+
+## PSM Url
+
+| WEB NAME | URL |
+| ------ | ------ |
+| PSM WEB |  UNKNOWN |
+| GITHUB | https://github.com/PSMDEV9073 |
+| YOUTUBE | UNKNOWN |
+
+
+## My Status
+![PSM's github stats](https://github-readme-stats.vercel.app/api?username=PSMDEV9073&show_icons=true&theme=solarized-light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
